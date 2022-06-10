@@ -13,4 +13,4 @@ Technology used:
 2. Flask-SqlAlchemy for Database
 3.  Html and bootstrap for frontend
 
-hello
+
